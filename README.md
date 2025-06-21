@@ -1,4 +1,4 @@
-# 🧠 ANN for Clustering Customer Segments
+# ANN for Clustering Customer Segments
 
 > **Course**: DA221 — *Introduction to AI*  
 > **Team**: *The Upside Down*
