@@ -3,7 +3,7 @@
 > **Course**: DA221 — *Introduction to AI*  
 > **Team**: *The Upside Down*
 
-## 👥 Team Members
+## Team Members
 
 - M. Abhiram (230150015)  
 - K. Ashmita (230150014)  
