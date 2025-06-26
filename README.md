@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This project focuses on **clustering customers** based on their **purchasing behavior** in a shopping mall.  
 Instead of using traditional K-Means, we employed an **Artificial Neural Network (ANN)** for clustering.  
@@ -20,7 +20,7 @@ Instead of using traditional K-Means, we employed an **Artificial Neural Network
 
 ---
 
-## ⚙️ Implementation Steps
+## Implementation Steps
 
 1. Load and preprocess the dataset
 2. Perform Exploratory Data Analysis (EDA) using Matplotlib and Seaborn
@@ -35,7 +35,7 @@ Instead of using traditional K-Means, we employed an **Artificial Neural Network
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
@@ -44,7 +44,7 @@ Instead of using traditional K-Means, we employed an **Artificial Neural Network
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 - **File**: `Mall_Customers.csv`
 - **Features**:
@@ -59,13 +59,13 @@ Instead of using traditional K-Means, we employed an **Artificial Neural Network
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 1. Open the Jupyter Notebook file: `ANN_Clustering_Code.ipynb`
 2. Confirm that `Mall_Customers.csv` is in the same directory
 3. Run all cells in order
 
-### 🧾 What You’ll See:
+### What You’ll See:
 - Data Preprocessing and EDA
 - Autoencoder Latent Space visualization
 - ANN-based Clustering output
@@ -74,7 +74,7 @@ Instead of using traditional K-Means, we employed an **Artificial Neural Network
 
 ---
 
-## 📦 Installation
+## Installation
 
 Install all required libraries using pip:
 
